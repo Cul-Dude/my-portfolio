@@ -1,8 +1,8 @@
 # Personal Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my website. I made this responsive website using React, Tailwind CSS, and Framer Motion and deployed it using Vercel.
 
-Currently, two official plugins are available:
+Could you check it out and give me honest feedback?
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Click here](https://my-portfolio-inky-pi.vercel.app/ ) to visit the website
+
